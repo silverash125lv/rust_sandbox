@@ -1,9 +1,6 @@
-pub mod custom_types {
+pub fn execute(){
 
-    pub fn execute(){
-
-        println!("Helllo...");
-
-    }
+    println!("Helllo...");
 
 }
+
